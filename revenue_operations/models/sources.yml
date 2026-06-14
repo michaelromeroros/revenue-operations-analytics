@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    database: delta-jigsaw-499418-v0
+    schema: revops_analytics
+
+    tables:
+      - name: accounts_raw
+      - name: products_raw
+      - name: sales_pipeline_raw
+      - name: sales_teams_raw

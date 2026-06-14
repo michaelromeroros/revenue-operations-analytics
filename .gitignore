@@ -1,0 +1,13 @@
+venv/
+dbt-env/
+dbt-env-311/
+
+__pycache__/
+
+.DS_Store
+
+logs/
+
+*.pyc
+
+.env

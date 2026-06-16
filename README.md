@@ -222,6 +222,21 @@ ERROR = 0
 
 ---
 
+## Data Quality Validation
+
+dbt tests were implemented to validate:
+
+- Uniqueness
+- Not Null constraints
+- Referential Integrity
+
+Results:
+
+- Tests Passed: 100%
+- Data Quality Issues Resolved During Staging
+
+---
+
 ## Data Lineage
 
 ![dbt Lineage](docs/dbt_lineage.png)
@@ -300,6 +315,16 @@ The dashboard provides a business-friendly analytical layer for monitoring reven
 
 ---
 
+## Key Insights
+
+- Won opportunities represented 48.16% of the pipeline.
+- Overall win rate reached 63.2%.
+- GTX Pro generated the highest revenue among all products.
+- Revenue was concentrated among a small subset of sales representatives.
+- Pipeline creation peaked during July before declining toward year-end.
+
+---
+
 ## Project Structure
 
 ```text
@@ -337,18 +362,14 @@ revenue-operations-analytics
 
 ## Skills Demonstrated
 
-- Python
-- SQL
-- BigQuery
-- dbt
+- SQL Data Transformation
 - Data Modeling
-- ETL
+- ELT Pipeline Development
 - Data Warehousing
+- dbt Development
 - Data Quality Testing
-- Power BI
-- Business Intelligence
-- Git
-- GitHub
+- Dashboard Development
+- Revenue Operations Analytics
 
 ---
 

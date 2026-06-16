@@ -248,7 +248,9 @@ BigQuery serves as the centralized cloud data warehouse, storing raw, staging, a
 
 ## Power BI Dashboard
 
-![Dashboard](docs/dashboard.pdf)
+![Dashboard](docs/dashboard.png)
+
+[Download Full Dashboard PDF](docs/dashboard.pdf)
 
 The dashboard provides a business-friendly analytical layer for monitoring revenue performance and sales effectiveness.
 
